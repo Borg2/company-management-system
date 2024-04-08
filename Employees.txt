@@ -1,0 +1,10 @@
+1008,sobhy,yassmeen,23300.500000,30-5-1979,19 mortda Street,01114567899,sobhy.yas@gmail.com
+1005,yasser,mazen,15555.000000,5-7-2000,16 alsafwa Street,01234560000,mazenislam@gmail.com
+1009,khald,farida,13000.000000,30-12-1991,17 alsafwa Street,01277767899,farida4645@gmail.com
+1002,mostafa,wael,5014.000000,1-10-1972,12 alataba Street,01676474466,wael6456@gmail.com
+1004,Mostafa,islam,4500.120117,31-2-1978,15 alsafwa Street,01234234599,mostafa67@gmail.com
+1001,Ahmed,mazen,3000.500000,30-12-2001,15 alsafwa Street,01234567899,mazen@gmail.com
+1003,ahmed,ehab,2333.000000,19-1-2002,2 azmi Street,01220887290,ahmedehab@gmail.com
+1010,Ashraf,ossama,1900.500000,8-2-2002,15 algamal Street,01554567899,ashraf@gmail.com
+1007,mohamed,salma,1300.500000,30-2-1959,56 alsafwa Street,01234999899,salma@gmail.com
+1006,ahmed,youssef,567.000000,30-9-2004,17 alsafwa Street,01200007899,uoussef78@gmail.com
